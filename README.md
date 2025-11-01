@@ -1,4 +1,4 @@
-# Desription create email
+# Инструкция верстки писем для рассылки
 
 ### Ссылка на youtube пример:
   <blockquote>
